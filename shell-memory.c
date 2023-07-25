@@ -1,8 +1,7 @@
 #include "shell.h"
 /**
  * bfree - frees pointers
- * @ptr: address 
- *
+ * @ptr: address
  * Return: 1 if freed, otherwise 0.
  */
 int bfree(void **ptr)

@@ -20,7 +20,7 @@ void _eputs(char *str)
 /**
  * _eputchar- writes the char c to stderr
  * @c: char
- * Return: 1 on success, -1 on error, and errno 
+ * Return: 1 on success, -1 on error, and errno
  */
 int _eputchar(char c)
 {

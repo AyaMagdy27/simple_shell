@@ -35,7 +35,7 @@ int is_chain(info_t *info, char *buf, size_t *p)
 }
 
 /**
- * check_chain- checks for chaining 
+ * check_chain- checks for chaining
  * @info: parameter
  * @buf: char buffer
  * @p: address
